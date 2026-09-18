@@ -25,10 +25,10 @@ Practiced core Tier-1 Help Desk tasks including account provisioning, password r
 ## Screenshots
 
 ### Active Directory Users and Computers
-![Active Directory OUs and Users](aduc.png)
+![Active Directory OUs and Users](aduc.PNG)
 
 ### Server Manager Dashboard
-![Server Manager Dashboard](server-manager.png)
+![Server Manager Dashboard](server-manager.PNG)
 
 Automation Script
 PowerShell
